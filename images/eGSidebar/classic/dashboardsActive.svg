@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #434ba2;
+      }
+
+      .cls-3 {
+        stroke: #434ba2;
+        stroke-width: 1.2px;
+      }
+    </style>
+  </defs>
+  <g id="dashboardsActive">
+    <g id="Rectangle_1018" data-name="Rectangle 1018">
+      <rect class="cls-1" width="10.88" height="8.47" rx="2" ry="2"/>
+      <rect class="cls-3" x=".6" y=".6" width="9.68" height="7.27" rx="1.4" ry="1.4"/>
+    </g>
+    <g id="Rectangle_1019" data-name="Rectangle 1019">
+      <rect class="cls-1" x="12.71" width="11.29" height="11.71" rx="2" ry="2"/>
+      <rect class="cls-3" x="13.31" y=".6" width="10.09" height="10.51" rx="1.4" ry="1.4"/>
+    </g>
+    <g id="Rectangle_1020" data-name="Rectangle 1020">
+      <rect class="cls-1" x="12.71" y="14.12" width="11.29" height="9.88" rx="2" ry="2"/>
+      <rect class="cls-3" x="13.31" y="14.72" width="10.09" height="8.68" rx="1.4" ry="1.4"/>
+    </g>
+    <g id="Rectangle_1021" data-name="Rectangle 1021">
+      <path class="cls-1" d="M2,10.88h6.88c1.1,0,2,.9,2,2v9.12c0,1.1-.9,2-2,2H2c-1.1,0-2-.9-2-2v-9.12c0-1.1.9-2,2-2Z"/>
+      <path class="cls-2" d="M2,12.08c-.44,0-.8.36-.8.8v9.12c0,.44.36.8.8.8h6.88c.44,0,.8-.36.8-.8v-9.12c0-.44-.36-.8-.8-.8H2M2,10.88h6.88c1.1,0,2,.9,2,2v9.12c0,1.1-.9,2-2,2H2C.9,24,0,23.1,0,22v-9.12C0,11.78.9,10.88,2,10.88Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 17.65 15.79">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #ADADAD;
+      }
+
+      .cls-3 {
+        fill: #ADADAD;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" width="17.65" height="15.79"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <g id="integration_console">
+      <g id="Group_15534">
+        <rect id="Rectangle_1411" class="cls-2" x="9.29" y="12.07" width="4.64" height=".93"/>
+        <path id="Path_3814" class="cls-2" d="M3.71,6.04l.66-.66,3.91,3.91-3.91,3.91-.66-.66,3.25-3.25-3.25-3.25Z"/>
+        <g id="Group_15335">
+          <g class="cls-4">
+            <g id="Group_15334">
+              <path id="Path_3815" class="cls-3" d="M2.79,0h12.07c1.54,0,2.79,1.25,2.79,2.79v10.21c0,1.54-1.25,2.79-2.79,2.79H2.79c-1.54,0-2.79-1.25-2.79-2.79V2.79C0,1.25,1.25,0,2.79,0M2.79.93c-1.03,0-1.86.83-1.86,1.86h15.79c0-1.03-.83-1.86-1.86-1.86H2.79ZM.93,13c0,1.03.83,1.86,1.86,1.86h12.07c1.03,0,1.86-.83,1.86-1.86V3.72H.93v9.28Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

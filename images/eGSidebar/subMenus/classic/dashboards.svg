@@ -1,0 +1,18 @@
+<svg id="dashboards" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Rectangle_1018" data-name="Rectangle 1018">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="10.9" height="8.5" rx="2" fill="none"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="9.7" height="7.3" rx="1.4" transform="translate(0.6 0.6)" fill="none" stroke="#484660" stroke-width="1.2"/>
+  </g>
+  <g id="Rectangle_1019" data-name="Rectangle 1019">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="11.3" height="11.7" rx="2" transform="translate(12.7)" fill="none"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="10.1" height="10.5" rx="1.4" transform="translate(13.3 0.6)" fill="none" stroke="#484660" stroke-width="1.2"/>
+  </g>
+  <g id="Rectangle_1020" data-name="Rectangle 1020">
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="11.3" height="9.9" rx="2" transform="translate(12.7 14.1)" fill="none"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="10.1" height="8.7" rx="1.4" transform="translate(13.3 14.7)" fill="none" stroke="#484660" stroke-width="1.2"/>
+  </g>
+  <g id="Rectangle_1021" data-name="Rectangle 1021">
+    <path id="Path_4" data-name="Path 4" d="M2,10.9H8.9a2.006,2.006,0,0,1,2,2V22a2.006,2.006,0,0,1-2,2H2a2.006,2.006,0,0,1-2-2V12.9A2.006,2.006,0,0,1,2,10.9Z" fill="none"/>
+    <path id="Path_5" data-name="Path 5" d="M2,12.1a.86.86,0,0,0-.8.8V22a.86.86,0,0,0,.8.8H8.9a.86.86,0,0,0,.8-.8V12.9a.86.86,0,0,0-.8-.8H2m0-1.2H8.9a2.006,2.006,0,0,1,2,2V22a2.006,2.006,0,0,1-2,2H2a2.006,2.006,0,0,1-2-2V12.9A2.006,2.006,0,0,1,2,10.9Z" fill="#484660"/>
+  </g>
+</svg>
